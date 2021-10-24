@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majid-lagzian
+- 👋 Hi, I’m @majidlagzian
 - I’m interested in Data Science
 - I’m currently learning the basics of Machine Learning
 - How to reach me: majid.lagzian@gmail.com
