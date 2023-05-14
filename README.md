@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majid-lagzian
-- I’m interested in Data Science
-- I’m currently learning the basics of Machine Learning
+- I’m currently studying Master of Management Analytics
+- Passionate about ML techniques
 - How to reach me: majid.lagzian@gmail.com
 
 <!---
