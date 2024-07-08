@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @majid-lagzian
-- I’m currently studying Master of Management Analytics
+- I’m a Queen's Master of Management Analytics alum
 - Passionate about ML techniques
 - How to reach me: majid.lagzian@gmail.com
 
